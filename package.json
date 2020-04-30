@@ -22,5 +22,8 @@
   },
   "dependencies": {
     "esm": "^3.2.25"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
   }
 }
