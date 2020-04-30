@@ -1,11 +1,11 @@
-# minecraft-chat-parser
+# minecraft-chat-packet
 
 A simple parser for minecraft chat packets.
 
 ## Usage
 
 Install:
-`$ npm i dada513/mc-motd-transform`
+`$ npm i minecraft-chat-packet`
 
 Use:
 
@@ -20,6 +20,6 @@ const packet = {
   ],
   text: "",
 };
-const parser = require("minecraft-chat-parser");
+const parser = require("minecraft-chat-packet");
 console.log(parser.parse(packet)); // Expected output: §l§aHello World
 ```

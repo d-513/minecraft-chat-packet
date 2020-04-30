@@ -1,11 +1,11 @@
 {
-  "name": "minecraft-chat-parser",
+  "name": "minecraft-chat-packet",
   "version": "1.0.0",
   "description": "minecraft packet parser for chat",
   "main": "src/esm.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dada513/minecraft-chat-parser.git"
+    "url": "git+https://github.com/dada513/minecraft-chat-packet.git"
   },
   "scripts": {
     "lint": "eslint ./src/"
@@ -18,7 +18,7 @@
   "author": "dada513",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dada513/minecraft-chat-parser/issues"
+    "url": "https://github.com/dada513/minecraft-chat-packet/issues"
   },
   "dependencies": {
     "esm": "^3.2.25"
