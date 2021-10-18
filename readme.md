@@ -1,3 +1,4 @@
+# deprecated by prismarine-chat
 # minecraft-chat-packet
 
 A simple parser for minecraft chat packets.
